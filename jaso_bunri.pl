@@ -16,10 +16,10 @@ use encoding "utf8";
 
 
 # 이것이 프로그램 본체
-my $_=$ARGV[0];
-utf8::upgrade($_);
-LF2LFCR($_);
-print hangul2jaso($_);
+my $str=$ARGV[0];
+utf8::upgrade($str);
+LF2LFCR($str);
+print hangul2jaso($str);
 
 
 

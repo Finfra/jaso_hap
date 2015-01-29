@@ -25,6 +25,17 @@ v1.0.1
 
 jaso_bunri.pl은 http://mwultong.blogspot.com/2006/03/perl.html 의 내용을 수정함.
 
+# todo
+아래와 같은 에러 메세지 (perl 명령어와 함께 실행하면 문제 없음.)
+```
+[ ~/_sh]$ chmod +x ./jaso*.pl
+[ ~/_sh]$ ./jaso_bunri.pl '핀프라'
+Use of the encoding pragma is deprecated at ./jaso_bunri.pl line 12.
+ㅍㅣㄴㅍㅡㄹㅏ[ ~/_sh]$ 
+[ ~/_sh]$ ./jaso_hap.pl '핀프라'
+Use of the encoding pragma is deprecated at ./jaso_hap.pl line 18.
+핀프라[ ~/_sh]$ 
+```
 
 # BUGS
 
