@@ -11,16 +11,16 @@ v1.0.1
     $ perl  jaso_hap.pl "ㄱㅛㅇㅠㄱ"                                 
     $ perl  jaso_hap.pl `cat 0.txt`                                  
     $ perl  jaso_hap.pl `cat 0.txt`>1.txt                            
-
 # example
-<code>[ ~/_sh]$ perl jaso_bunri.pl "핀프라</code>〈br /〉
-<code>\> "</code>〈br /〉
-<code>ㅍㅣㄴㅍㅡㄹㅏ</code>〈br /〉
-<code>[ ~/_sh]$ </code>〈br /〉
-<code>[ ~/_sh]$ perl jaso_hap.pl "ㅍㅣㄴㅍㅡㄹㅏ</code>〈br /〉
-<code> "</code>〈br /〉
-<code>핀프라</code>〈br /〉
-
+```
+[ ~/_sh]$ perl jaso_bunri.pl "핀프라
+> "
+ㅍㅣㄴㅍㅡㄹㅏ
+[ ~/_sh]$ 
+[ ~/_sh]$ perl jaso_hap.pl "ㅍㅣㄴㅍㅡㄹㅏ
+> "
+핀프라
+```
 # CF        
 
 jaso_bunri.pl은 http://mwultong.blogspot.com/2006/03/perl.html 의 내용을 수정함.
