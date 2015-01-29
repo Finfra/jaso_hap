@@ -13,15 +13,14 @@ v1.0.1
     $ perl  jaso_hap.pl `cat 0.txt`>1.txt                            
 
 # example
- <code>
-[ ~/_sh]$ perl jaso_bunri.pl "핀프라
-> "
-ㅍㅣㄴㅍㅡㄹㅏ
-[ ~/_sh]$ 
-[ ~/_sh]$ perl jaso_hap.pl "ㅍㅣㄴㅍㅡㄹㅏ
-> "
-핀프라
-</code>
+<code>[ ~/_sh]$ perl jaso_bunri.pl "핀프라</code>
+<code>"</code>
+<code>ㅍㅣㄴㅍㅡㄹㅏ</code>
+<code>[ ~/_sh]$ </code>
+<code>[ ~/_sh]$ perl jaso_hap.pl "ㅍㅣㄴㅍㅡㄹㅏ</code>
+<code> "</code>
+<code>핀프라</code>
+
 # CF        
 
 jaso_bunri.pl은 http://mwultong.blogspot.com/2006/03/perl.html 의 내용을 수정함.
