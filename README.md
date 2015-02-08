@@ -4,13 +4,14 @@
 
 # Version
 
-v1.0.1
+v1.0.2
 
 # usage 
 
     $ perl  jaso_hap.pl "ㄱㅛㅇㅠㄱ"                                 
     $ perl  jaso_hap.pl `cat 0.txt`                                  
-    $ perl  jaso_hap.pl `cat 0.txt`>1.txt       
+    $ perl  jaso_hap.pl `cat 0.txt`>1.txt      
+    $ . jaso_convert.sh
                          
 # example
 ```
