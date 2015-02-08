@@ -3,6 +3,7 @@
 # 완성형 한글의 한글 문자열을 초성/중성/종성으로 분리하여 출력
 # v1.0a
 # Source From : http://mwultong.blogspot.com/2006/03/perl.html
+# Managed by  https://github.com/Finfra/jaso_hap                       #
 ########################################################################
 use strict; use warnings;
 

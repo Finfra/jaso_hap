@@ -7,6 +7,8 @@
 #        perl  jaso_hap.pl `cat 0.txt`                                  #
 #        perl  jaso_hap.pl `cat 0.txt`>1.txt                            #
 # cf : 분리하는 것은 http://mwultong.blogspot.com/2006/03/perl.html     #
+# Made by Finfra.com                                                    #
+# Managed by  https://github.com/Finfra/jaso_hap                        #
 #########################################################################
 
 use strict; use warnings;
