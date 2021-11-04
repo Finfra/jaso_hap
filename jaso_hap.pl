@@ -16,7 +16,7 @@ use strict; use warnings;
 #use encoding "cp949";
 use encoding "utf8";
 
-use 5.010;
+#use 5.010;
 use Unicode::Normalize;
 
 
