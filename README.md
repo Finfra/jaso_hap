@@ -3,8 +3,13 @@
 초성/중성/종성으로 분리된 한글을 합치기                               
 
 # Version
-
 v1.0.2
+
+## Perl Support version
+v5.18.2 최신 버전 지원 안됨
+
+
+
 
 # usage 
 
@@ -24,8 +29,16 @@ v1.0.2
 핀프라
 ```
 # CF        
-
+## Reference
 jaso_bunri.pl은 http://mwultong.blogspot.com/2006/03/perl.html 의 내용을 수정함.
+
+## Old version PERL설치 방법(Mac)
+```bash
+brew install plenv
+plenv install 5.18.2
+cd .plenv/build/숫자/perl-5.18.2
+./perl --version
+```
 
 # BUGS
 
